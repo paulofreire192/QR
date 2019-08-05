@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+          <meta charset="utf-8">
+        <title>qr</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <div>
+        <h2 class="nombre">Bienvenido Rodri!!</h2>
+    </div>
+    <div>
+        <p class="nombre">Hoy es martes, cortamos la semana con una picadita?
+        <br>
+        Nosotros ponemos esta oferta y vos?
+        </p>
+    </div>
+    <br>
+    <div class="foto" src="img/1.jpg">
+    </div>
+    <br>
+    <div class="boton">
+        <button>Obtener Cupon</button>
+    </div>
+    <div>
+        <p>Usuario: B. Rodrigo , Cooperativa Paulo Freire</p>
+    </div>
+   
+</body>
+</html>
